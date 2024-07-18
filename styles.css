@@ -27,6 +27,8 @@ body {
   border-radius: 50px;
   top: 3px;
   position: absolute;
+  left: 3px;
+  animation: toggleOff
 }
 .input:checked + .label {
   background-color: red;
